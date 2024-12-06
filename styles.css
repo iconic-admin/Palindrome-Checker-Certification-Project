@@ -1,0 +1,16 @@
+body {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+.pal {
+    width: 20%;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+#result {
+    background-color: white;
+}
